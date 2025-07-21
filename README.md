@@ -23,5 +23,5 @@ Sex: ?????¿¿¿¿¿
 
 I'm truly a curious person — always open and eager to debate or learn about anything, whether it's science, anime, politics, philosophy, or just life itself. Even if this README is rather informal and will likely change in the foreseeable future, I hope it’s given you a small glimpse of who I am
 
-![kanata] (kanata.png)
+![kanata](kanata.png)
 
