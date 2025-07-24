@@ -15,7 +15,7 @@ Location: Colombia
 
 Age: Younger than you.
 
-Skills: English C1, Linux, C, SQL, Python.
+Skills: English C1, Bash, C, SQL, Python.
 
 Sex: ?????¿¿¿¿¿
 
