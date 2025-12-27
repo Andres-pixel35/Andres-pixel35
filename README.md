@@ -7,7 +7,7 @@
 ##
 
 
-I'm currently working on several projects in order to understand how "big" projects work 
+I'm currently working on several data analysis projects for fun and to learn. 
 
 Hobbies: Anime, read, walk and science
 
