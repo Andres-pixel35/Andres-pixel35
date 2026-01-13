@@ -1,23 +1,32 @@
-# Hi there! | I'm Andres
+# Hi there!
 
-<div style="text-align: center;">Data Science and Chinese student</div>
+I am Andres, a Data Scientist and Chinese student based in Colombia
 
-<div style="text-align: center;">I'm actually quite good at maths, but I don't know how to include it under my skills. So, I include it here.</div>
+I mostly work in project that either you can deploy in your own device and modified to meet you needs or in Data Anlysis.
 
-##
+In this profile I mainly updated my personal projects and analysis. Everything here is built on my own from scratch, no copy/paste or templates.
 
+Last project: Data Anlysis on Isekai.
 
-I'm currently working on several data analysis projects for fun and to learn. 
+Currently working in an App/web (not sure yet) where the user can insert their anime, mangas or light novels they have watched and generate a new CSV with those works plus other data and with that create a dashboard.
 
-Hobbies: Anime, read, walk and science
+## Tools & skills
 
-Location: Colombia
+**Tech**: 
+- Python
+- C
+- Shell script 
 
-Age: 19
+**Languages**:
+- Spanish (native)
+- English (C1)
+- Chinese (basics)
 
-Skills: English C1, Bash, C, SQLite, Python.
-
-##
-
-I'm truly a curious person — always open and eager to debate or learn about anything, whether it's science, anime, politics, philosophy, or just life itself. Even if this README is rather short and will likely change in the foreseeable future, I hope it’s given you a small glimpse of who I am
-
+**Tools**:
+- Numpy, Matplotlib, Numpy
+- Gimp
+    
+## About me 
+- I have a cat whose name is *Cosmos*.
+- I use arch linux and hyprland BTW
+- Hobbies: anime, walk, learn, discuss.
