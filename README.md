@@ -8,7 +8,7 @@ In this profile I mainly updated my personal projects and analysis. Everything h
 
 Last project: Data Anlysis on Isekai.
 
-Currently working in an App/web (not sure yet) where the user can insert their anime, mangas or light novels they have watched and generate a new CSV with those works plus other data and with that create a dashboard.
+Currently working in an App/web (not sure yet) where the user can insert the anime, mangas or light novels they have watched and generate a new CSV with those works plus other data and with that create a dashboard.
 
 ## Tools & skills
 
@@ -30,3 +30,4 @@ Currently working in an App/web (not sure yet) where the user can insert their a
 - I have a cat whose name is *Cosmos*.
 - I use arch linux and hyprland BTW
 - Hobbies: anime, walk, learn, discuss.
+- Terminal Enyojer
