@@ -23,7 +23,7 @@ Currently working in an App/web (not sure yet) where the user can insert the ani
 - Chinese (basics)
 
 **Tools**:
-- Numpy, Matplotlib, Numpy
+- Pandas, Matplotlib, Numpy
 - Gimp
     
 ## About me 
