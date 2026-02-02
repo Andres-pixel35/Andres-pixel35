@@ -8,7 +8,7 @@ In this profile I mainly updated my personal projects and analysis. Everything h
 
 Last project: A Simple CLI Anime Dashboard
 
-If you want to contact me, please do it through my [email](riosandres294@gmail.com)
+If you want to contact me, please do it through my email (riosandres294@gmail.com)
 
 ## Tools & skills
 
