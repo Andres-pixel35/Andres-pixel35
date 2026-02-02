@@ -6,26 +6,28 @@ I mostly work in project that either you can deploy in your own device and modif
 
 In this profile I mainly updated my personal projects and analysis. Everything here is built on my own from scratch, no copy/paste or templates.
 
-Last project: Data Anlysis on Isekai.
+Last project: A Simple CLI Anime Dashboard
 
-Currently working in an App/web (not sure yet) where the user can insert the anime, mangas or light novels they have watched and generate a new CSV with those works plus other data and with that create a dashboard.
+If you want to contact me, please do it through my [email](riosandres294@gmail.com)
 
 ## Tools & skills
 
-**Tech**: 
+**Languages**: 
 - Python
 - C
-- Shell script 
+- Shell script
 
-**Languages**:
+**Data manipulation and visualization**:
+- Pandas
+- Matplotlib
+- Streamlit
+- GIMP
+
+**Spoken Languages**:
 - Spanish (native)
 - English (C1)
 - Chinese (basics)
 
-**Tools**:
-- Pandas, Matplotlib, Numpy
-- Gimp
-    
 ## About me 
 - I have a cat whose name is *Cosmos*.
 - I use arch linux and hyprland BTW
