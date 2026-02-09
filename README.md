@@ -8,6 +8,8 @@ In this profile I mainly updated my personal projects and analysis. Everything h
 
 Last project: A Simple CLI Anime Dashboard
 
+Currently working on: Colombia in Statistics, a project where I'm aiming to bring together several statistics from Colombia and show all them in a simple and interactive dashboard.
+
 If you want to contact me, please do it through my email (riosandres294@gmail.com)
 
 ## Tools & skills
