@@ -10,7 +10,7 @@ Last project: A Simple CLI Anime Dashboard
 
 Currently working on: Colombia in Statistics, a project where I'm aiming to bring together several statistics from Colombia and show all them in a simple and interactive dashboard.
 
-If you want to contact me, please do it through my email (riosandres294@gmail.com)
+If you want to contact me, please do it through my email: riosandres294@gmail.com
 
 ## Tools & skills
 
@@ -22,13 +22,13 @@ If you want to contact me, please do it through my email (riosandres294@gmail.co
 **Data manipulation and visualization**:
 - Pandas
 - Matplotlib
+- Plotly
 - Streamlit
-- GIMP
 
 **Spoken Languages**:
 - Spanish (native)
 - English (C1)
-- Chinese (basics)
+- Chinese (HSK 1)
 
 ## About me 
 - I have a cat whose name is *Cosmos*.
