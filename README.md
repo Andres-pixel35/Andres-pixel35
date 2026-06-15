@@ -18,6 +18,7 @@ If you want to contact me, please do it through my email: riosandres294@gmail.co
 - Python
 - C
 - Shell script
+- SQL (PostgreSQL)
 
 **Data manipulation and visualization**:
 - Pandas
