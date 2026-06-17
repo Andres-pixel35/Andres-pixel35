@@ -1,6 +1,6 @@
 # Hi there!
 
-I am Andres, a Data Scientist and Chinese student based in Colombia
+I am Andres, a Data Analyst based in Colombia
 
 I mostly work in project that either you can deploy in your own device and modified to meet you needs or in Data Anlysis.
 
@@ -36,3 +36,4 @@ If you want to contact me, please do it through my email: riosandres294@gmail.co
 - I use arch linux and hyprland BTW
 - Hobbies: anime, walk, learn, discuss.
 - Terminal Enyojer
+- I am currently studying Chinese!
