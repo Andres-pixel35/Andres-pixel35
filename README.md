@@ -12,7 +12,7 @@ Currently working on: statsco.ai, a RAG-powered AI assistant aiming to give accu
 
 Currently maintaining: [Anime Dashboard](https://github.com/Andres-pixel35/Anime-dashboard) and [Statistics on Colombia](https://github.com/Andres-pixel35/Statistics_on_Colombia).
 
-If you want to contact me, please do it through my email: [riosandres294@gmail.com](mailto:riosandres294@gmail.com)
+If you want to contact me, please do it through my email: [riosandres294@proton.me](mailto:riosandres294@proton.me)
 
 ## Tools & skills
 
