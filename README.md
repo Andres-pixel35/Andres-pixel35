@@ -6,11 +6,11 @@ I mostly work on projects you can deploy on your own device and modify to fit yo
 
 This profile mainly showcases my personal projects and analyses. Everything here is built on my own from scratch, no copy/paste or templates.
 
-Last project: [Statistics on Colombia](https://github.com/Andres-pixel35/Statistics_on_Colombia), a dashboard bringing together statistics from Colombia into one interactive, simple to use app.
+Last project: [statsco_ai](https://github.com/Andres-pixel35/statsco-ai), an open-source chat app that answers questions about Colombia's official statistics in plain language, in English or Spanish. Try it live at [statscoai.streamlit.app](https://statscoai.streamlit.app/).
 
-Currently working on: statsco.ai, a RAG-powered AI assistant aiming to give accurate answers about Colombia's statistics.
+Currently working on: a machine learning model to predict the genres, tags and score of anime series.
 
-Currently maintaining: [Anime Dashboard](https://github.com/Andres-pixel35/Anime-dashboard) and [Statistics on Colombia](https://github.com/Andres-pixel35/Statistics_on_Colombia).
+Currently maintaining: [statsco_ai](https://github.com/Andres-pixel35/statsco-ai), [Anime Dashboard](https://github.com/Andres-pixel35/Anime-dashboard) and [Statistics on Colombia](https://github.com/Andres-pixel35/Statistics_on_Colombia).
 
 If you want to contact me, please do it through my email: [riosandres294@proton.me](mailto:riosandres294@proton.me)
 
